@@ -1,0 +1,3 @@
+rootProject.name = 'Step_POC'
+
+include ':app'
